@@ -1,0 +1,56 @@
+* {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 11px;
+}
+.match-con {
+  width: 100%;
+}
+.match-head {
+  font-size: 14px;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+.match-card {
+  width: 100%;
+  background-color: #0f172a;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #475569;
+  border-radius: 10px;
+  padding: 20px;
+}
+.card1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.team-head {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.date {
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+.para2 {
+  margin-bottom: 10px;
+}
+.para {
+  margin-bottom: 10px;
+  text-align: right;
+}
+.card2-img {
+  width: 150px;
+  height: 150px;
+}
+.title-head {
+  margin-bottom: 10px;
+  font-size: 15px;
+  text-align: right;
+}

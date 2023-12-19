@@ -1,0 +1,28 @@
+.team-card {
+  background-color: #ffffff33;
+  display: flex;
+  align-items: center;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  padding: 20px;
+  width: 45%;
+  margin: 10px;
+  opacity: 0.6;
+  text-decoration: none;
+}
+.logo-img {
+  width: 70px;
+  height: 70px;
+  margin-right: 10px;
+}
+.text-center {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+}
+
+.team-head {
+  font-size: 22px;
+  font-weight: 600;
+  color: #ffffff;
+}

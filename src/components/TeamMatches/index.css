@@ -1,0 +1,25 @@
+.bg {
+  height: 100vh;
+  overflow-y: scroll;
+}
+.team-con {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+}
+.banner-img {
+  width: 100%;
+  margin-bottom: 30px;
+}
+.loader-cen {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}

@@ -1,0 +1,39 @@
+.matchCard-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #0f172a;
+  border: 1px solid #475569;
+  border-radius: 10px;
+  padding: 15px;
+  width: 23%;
+  margin-bottom: 25px;
+}
+.matchCard-img {
+  width: 75px;
+  height: 75px;
+  margin-bottom: 20px;
+}
+.matchCard-head {
+  font-size: 14px;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.matchCard-para {
+  font-size: 11px;
+  font-weight: 500;
+  color: #ffffff;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.won-card {
+  color: #18ed66;
+}
+.lost-card {
+  color: #e31a1a;
+}
+.matchCard-res {
+  font-size: 13px;
+  font-weight: 600;
+}
